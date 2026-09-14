@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Queries.Notifications.GetUnreadNotificationCount;
+
+public record GetUnreadNotificationCountQuery(int UserId);

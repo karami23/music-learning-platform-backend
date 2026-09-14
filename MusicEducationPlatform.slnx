@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="MusicEducation.API/MusicEducation.API.csproj" />
+    <Project Path="MusicEducation.Application/MusicEducation.Application.csproj" />
+    <Project Path="MusicEducation.Domain/MusicEducation.Domain.csproj" />
+    <Project Path="MusicEducation.Infrastructure/MusicEducation.Infrastructure.csproj" Id="1c41ffc0-0019-4926-830c-84b3435a6fa6" />
+  </Folder>
+</Solution>

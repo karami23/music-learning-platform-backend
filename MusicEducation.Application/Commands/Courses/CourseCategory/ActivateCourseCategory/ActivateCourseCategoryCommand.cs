@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Commands.Courses.CourseCategory.ActivateCourseCategory;
+
+public sealed record ActivateCourseCategoryCommand(int CategoryId);

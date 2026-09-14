@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Queries.Learning.CourseAccess.GetCourseAccessesByCourseId;
+
+public record GetCourseAccessesByCourseIdQuery(int CourseId);

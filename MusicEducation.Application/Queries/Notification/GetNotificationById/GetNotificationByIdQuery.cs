@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Queries.Notifications.GetNotificationById;
+
+public record GetNotificationByIdQuery(int NotificationId);

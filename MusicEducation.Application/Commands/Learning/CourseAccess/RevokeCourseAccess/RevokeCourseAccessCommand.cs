@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Commands.Learning.CourseAccess.RevokeCourseAccess;
+
+public record RevokeCourseAccessCommand(int CourseAccessId);

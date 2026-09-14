@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Queries.Reviews.GetApprovedReviewsByCourseId;
+
+public record GetApprovedReviewsByCourseIdQuery(int CourseId);

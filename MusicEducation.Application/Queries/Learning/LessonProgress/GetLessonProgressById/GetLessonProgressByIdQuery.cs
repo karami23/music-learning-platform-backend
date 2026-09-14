@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Queries.Learning.LessonProgress.GetLessonProgressById;
+
+public record GetLessonProgressByIdQuery(int LessonProgressId);

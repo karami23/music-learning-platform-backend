@@ -1,0 +1,3 @@
+﻿namespace MusicEducation.Application.Commands.Learning.CourseAccess.RestoreCourseAccess;
+
+public record RestoreCourseAccessCommand(int CourseAccessId);
